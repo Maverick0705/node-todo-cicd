@@ -96,4 +96,4 @@ ubuntu@ip-172-31-41-173:~$ history
    95  sudo systemctl restart jenkins
    96  docker ps
    97  docker kill d64f1c14415e
-   98  clear
+   
